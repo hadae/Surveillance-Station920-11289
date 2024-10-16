@@ -1,15 +1,13 @@
 ## [Surveillance Station 9.2.0-11289](https://archive.synology.com/download/Package/SurveillanceStation)
 
 
----
-### 排程任務
-- 控制台 -> 任務排程表
-- 新增 -> 排程任務 -> 使用者定義指令碼
-- 一般: 使用者帳號 = root, 取消勾選啟用
-- 任務設定: 使用者定義指令碼  = ...
-- 確定 - 確定
-- 點擊並執行任務.
-- 當您看到有 58 個許可證時，請刪除此任務.
+Control Panel -> Task Scheduler
+Create -> Scheduled Task -> User-defined script
+General: User = root, uncheck Enable
+Task Settings: User-defined script = ...
+OK - OK
+Click and run task.
+Delete this task when you see there are 58 licenses.
 
 
 ---
