@@ -1,13 +1,13 @@
 ## [Surveillance Station 9.2.0-11289](https://archive.synology.com/download/Package/SurveillanceStation)
 
 
-Control Panel -> Task Scheduler
-Create -> Scheduled Task -> User-defined script
-General: User = root, uncheck Enable
-Task Settings: User-defined script = ...
-OK - OK
-Click and run task.
-Delete this task when you see there are 58 licenses.
+- Control Panel -> Task Scheduler
+- Create -> Scheduled Task -> User-defined script
+- General: User = root, uncheck Enable
+- Task Settings: User-defined script = ...
+- OK - OK
+- Click and run task.
+- Delete this task when you see there are 58 licenses.
 
 
 ---
